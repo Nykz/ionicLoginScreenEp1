@@ -1,4 +1,11 @@
 # ionicLoginScreenEp1
+PLANT APP - Auth Screens UI Kit
+
+Watch the Full Episode on YouTube at https://www.youtube.com/watch?v=00STgTOL1eo&list=PLixvNT19uDK6Fk6glTj18ONQRpCAVnY0G&index=8&ab_channel=CodingTechnyks
+
+<img src="https://github.com/Nykz/ionicLoginScreenEp1/blob/master/screen1_1.png" width="200" height="400" />
+<img src="https://github.com/Nykz/ionicLoginScreenEp1/blob/master/screen1_2.png" width="200" height="400" />
+
 Steps to Setup this beautiful login screen in your system
 
 1.Download the zipped project
